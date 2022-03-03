@@ -3,7 +3,7 @@ package com.company;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Opgave1 {
 
     private static void setUp(Integer[] intArray) {
         Scanner console = new Scanner(System.in);
